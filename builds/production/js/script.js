@@ -1,0 +1,1 @@
+var wellcome=wellcome||{};!function(a){"use strict";wellcome.sayhello=function(){console.log("this works")},wellcome.init=function(){wellcome.sayhello()}}(jQuery),jQuery(document).ready(function(a){"use strict";wellcome.init()});
